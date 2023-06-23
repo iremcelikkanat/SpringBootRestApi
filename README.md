@@ -1,5 +1,5 @@
 # SpringBootRestApi
-Rest Api Spring Boot+Mysql+JPA and Hibernate.
+Rest Api Spring Boot+Mysql+Hibernate.
 The app will start running at http://localhost:8080/.<br>
 
 # REST API Endpoints
